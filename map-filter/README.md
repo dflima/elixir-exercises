@@ -65,6 +65,8 @@ list = [
 Users.hello("Danilo")
 ```
 
+Save your file as `users.exs`, and then execute it: `elixir users.exs`
+
 
 ## BONUS ROUND
 
